@@ -1,1 +1,10 @@
-Guardar arquivos
+A imagem mostra um diagrama sobre como "Planejar uma solução de IA generativa responsável", que consiste em 4 etapas sequenciais:
+Identificar
+Possíveis danos relevantes para a solução planejada.
+Medida
+A presença desses danos nas saídas geradas pela solução.
+Mitigar
+Os danos em várias camadas em sua solução para minimizar a presença e impacto deles.
+Operar
+A solução com responsabilidade definindo e seguindo um plano de implantação e de preparação operacional.
+O diagrama apresenta estas etapas em formato de fluxo, conectadas por setas, indo da identificação até a operação, demonstrando uma progressão lógica no planejamento responsável de soluções de IA generativa
